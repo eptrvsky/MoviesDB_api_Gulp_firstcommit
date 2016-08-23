@@ -1,3 +1,6 @@
 {
-  "name" : "MoviesDB_api_Gulp"
+  "name": "MoviesDB_api_Gulp",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
 }
